@@ -2,10 +2,10 @@
 * @Author: Cirno.K.Kitkat
 * @Date:   2019-02-02 20:03:06
 * @Last Modified by:   Cirno.K.Kitkat
-* @Last Modified time: 2019-02-02 22:35:55
+* @Last Modified time: 2019-02-02 22:42:21
 */
 .bg {
-background:url("../bg/bg-1.jpg") no-repeat center fixed;
+background:url("../bg/bg-1.jpg") no-repeat center top fixed;
 background-size:cover;
 display:inline-block;
 margin:0;
