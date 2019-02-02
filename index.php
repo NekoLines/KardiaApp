@@ -2,7 +2,7 @@
 <html lang="zh">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
         <title>卡库拉拉兹巴魔法棒 - 客户端下载 - 卡露蒂亚城乡结合部</title>
         <link type="text/css" rel="stylesheet" href="css/style.css">
     </head>

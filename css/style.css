@@ -2,15 +2,21 @@
 * @Author: Cirno.K.Kitkat
 * @Date:   2019-02-02 20:03:06
 * @Last Modified by:   Cirno.K.Kitkat
-* @Last Modified time: 2019-02-02 22:25:38
+* @Last Modified time: 2019-02-02 22:32:10
 */
 .bg {
 background:url("../bg/bg-1.jpg") no-repeat center fixed;
-background-size:cover
+background-size:cover;
+display:inline-block;
+margin:0;
+padding:0;
+min-height: 100%;
+min-width: 100%;
 }
 .top-area{
 position: absolute;
-width: 100%;
+width: 80%;
+left: 10%;
 top: 10%;
 text-align: center;
 }
@@ -41,13 +47,15 @@ color: #1890ff;
 }
 .footer{
 position: absolute;
-width: 100%;
+width: 80%;
+left: 10%;
 bottom: 3%;
 text-align: center;
 }
 .down-button-area{
 position: absolute;
-width: 100%;
+width: 80%;
+left: 10%;
 bottom: 10%;
 }
 .copyright{
