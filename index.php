@@ -5,10 +5,8 @@
         <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
         <title>卡库拉拉兹巴魔法棒 - 客户端下载 - 卡露蒂亚城乡结合部</title>
         <link type="text/css" rel="stylesheet" href="css/style.css">
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-119962177-1"></script>
-        <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-119962177-1');</script>
     </head>
-    <body class="bgimg">
+    <body class="bg">
         <div class="top-area">
             <a class="logo" href="http://kardia.ac.cn"></a>
             <h1 class="headtext">欢迎食用<span>炼金模拟器</span></h1>

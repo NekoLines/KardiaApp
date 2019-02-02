@@ -2,11 +2,11 @@
 * @Author: Cirno.K.Kitkat
 * @Date:   2019-02-02 20:03:06
 * @Last Modified by:   Cirno.K.Kitkat
-* @Last Modified time: 2019-02-02 22:23:38
+* @Last Modified time: 2019-02-02 22:25:38
 */
-.bgimg {
-background:url("../bg/bg-1.jpg") no-repeat center center fixed;
-background-size: cover;
+.bg {
+background:url("../bg/bg-1.jpg") no-repeat center fixed;
+background-size:cover
 }
 .top-area{
 position: absolute;
