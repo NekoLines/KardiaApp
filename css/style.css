@@ -2,16 +2,10 @@
 * @Author: Cirno.K.Kitkat
 * @Date:   2019-02-02 20:03:06
 * @Last Modified by:   Cirno.K.Kitkat
-* @Last Modified time: 2019-02-02 22:20:31
+* @Last Modified time: 2019-02-02 22:22:11
 */
 .bgimg {
 background:url("../bg/bg-1.jpg") no-repeat center center fixed;
-position: absolute;
-top: 0;
-left: 0;
-display: block;
-min-width: 100%;
-min-height: 100%;
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
