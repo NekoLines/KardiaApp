@@ -9,7 +9,7 @@
         <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-119962177-1');</script>
     </head>
     <body >
-        <img class="bgimg" src="bg/bg-1.jpg">
+        <img class="bgimg">
         <div class="top-area">
             <a class="logo" href="http://kardia.ac.cn"></a>
             <h1 class="headtext">欢迎食用<span>炼金模拟器</span></h1>
