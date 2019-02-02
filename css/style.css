@@ -2,16 +2,15 @@
 * @Author: Cirno.K.Kitkat
 * @Date:   2019-02-02 20:03:06
 * @Last Modified by:   Cirno.K.Kitkat
-* @Last Modified time: 2019-02-02 22:32:10
+* @Last Modified time: 2019-02-02 22:34:44
 */
 .bg {
-background:url("../bg/bg-1.jpg") no-repeat center fixed;
-background-size:cover;
-display:inline-block;
-margin:0;
-padding:0;
-min-height: 100%;
-min-width: 100%;
+
+width: 100%;
+    height: auto!important;
+    min-height: 100%;
+    background: url(//www-static.myrzx.cn/myrzx-assets/img/repeat_bg.jpg) repeat;
+    background-size: 100% auto;
 }
 .top-area{
 position: absolute;
